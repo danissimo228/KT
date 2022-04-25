@@ -1,0 +1,6 @@
+/Users/daniilnishpal/Desktop/KT/KT/bin/Debug/KT.exe
+/Users/daniilnishpal/Desktop/KT/KT/bin/Debug/KT.pdb
+/Users/daniilnishpal/Desktop/KT/KT/obj/Debug/KT.csproj.AssemblyReference.cache
+/Users/daniilnishpal/Desktop/KT/KT/obj/Debug/KT.csproj.CoreCompileInputs.cache
+/Users/daniilnishpal/Desktop/KT/KT/obj/Debug/KT.exe
+/Users/daniilnishpal/Desktop/KT/KT/obj/Debug/KT.pdb
