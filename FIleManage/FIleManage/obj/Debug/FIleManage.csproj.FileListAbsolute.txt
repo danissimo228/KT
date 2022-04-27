@@ -1,0 +1,6 @@
+/Users/daniilnishpal/Desktop/FIleManage/FIleManage/bin/Debug/FIleManage.exe
+/Users/daniilnishpal/Desktop/FIleManage/FIleManage/bin/Debug/FIleManage.pdb
+/Users/daniilnishpal/Desktop/FIleManage/FIleManage/obj/Debug/FIleManage.csproj.AssemblyReference.cache
+/Users/daniilnishpal/Desktop/FIleManage/FIleManage/obj/Debug/FIleManage.csproj.CoreCompileInputs.cache
+/Users/daniilnishpal/Desktop/FIleManage/FIleManage/obj/Debug/FIleManage.exe
+/Users/daniilnishpal/Desktop/FIleManage/FIleManage/obj/Debug/FIleManage.pdb
