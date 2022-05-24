@@ -1,0 +1,27 @@
+|---------------------------|
+|DATABASE OF CLIENT AND CARD|
+|---------------------------|
+2022-05-24 at 12:55:53 MSK
+ID: 1
+fio:  Bob Dilan
+adress: Moscow, sreet Pushkina
+phone: 88005553535
+2022-05-24 at 12:55:53 MSK
+card number: 75434566879675743O
+type: debetovaya
+validity: 12/08
+name of bank: Sber
+cvc code: 2312
+------------------------------------------
+2022-05-24 at 12:57:47 MSK
+ID: 2
+fio: Biba Boba
+adress: Kaluga
+phone: 88888888888
+2022-05-24 at 12:57:47 MSK
+card number: 54973765273832375
+type: 
+validity: 11/10
+name of bank: VTB
+cvc code: 5555
+------------------------------------------
